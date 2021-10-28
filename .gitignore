@@ -1,0 +1,8 @@
+node_modules/
+yarn.lock.json
+package.lock.json
+build/
+fbsecretkey.json
+yarn-error.log
+dist/
+yarn.lock
